@@ -1,0 +1,83 @@
+[
+  {
+    "Title": "The Lion King",
+    "Year": "2019",
+    "Runtime": "118 min",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjIwMjE1Nzc4NV5BMl5BanBnXkFtZTgwNDg4OTA1NzM@._V1_SX300.jpg",
+    "desc": "Disney's The Lion King is about a young lion named Simba, who is the crown prince of an African Savanna. When his father dies in an accident staged by his uncle, Simba is made to feel responsible for his father's death and must overcome his fear of taking responsibility as the rightful heir to the throne.",
+    "channel": "Watch Online on Draplinx",
+    "genre": "Drama, Musical, Adventure, Animation"
+  },
+  {
+    "Title": "Mowgli: Legend of the Jungle",
+    "Year": "2018",
+    "Runtime": "104 min",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjMzODc2NzU5MV5BMl5BanBnXkFtZTgwNTMwMTE3NjM@._V1_SX300.jpg",
+    "desc": "A human child raised by wolves must face off against a menacing tiger named Shere Khan, as well as his own origins. In the jungle, Kaa, an Indian python seer, watches as Shere Khan, a crippled Bengal tiger, breaks jungle law by hunting down a family of humans, with only the child escaping.",
+    "channel": "Watch Online on Draplinx",
+    "genre": "Drama, Fantasy, Adventure"
+  },
+  {
+    "Title": "Doctor Strange",
+    "Year": "2016",
+    "Runtime": "115 min",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjgwNzAzNjk1Nl5BMl5BanBnXkFtZTgwMzQ2NjI1OTE@._V1_SX300.jpg",
+    "desc": "From Marvel Studios comes “Doctor Strange,” the story of world-famous neurosurgeon Dr. Stephen Strange whose life changes forever after a horrific car accident robs him of the use of his hands.",
+    "channel": "Watch Online on Draplinx",
+    "genre": "Action, Superhero, Sci-Fi, Adventure, Fantasy"
+  },
+  {
+    "Title": "John Wick",
+    "Year": "2014",
+    "Runtime": "101 min",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_SX300.jpg",
+    "desc": "John Wick is a 2014 American action thriller film directed by Chad Stahelski and written by Derek Kolstad. Keanu Reeves stars as John Wick, a legendary hitman who comes out of retirement to seek revenge against the men who killed his puppy, a final gift from his recently deceased wife.",
+    "channel": "Watch Online on Netflix",
+    "genre": "Action, Thriller, Crime film, Adventure, Mystery"
+  },
+  {
+    "Title": "The Notebook",
+    "Year": "2004",
+    "Runtime": "123 min",
+    "Poster": "https://www.roguecinema.com/wp-content/uploads/2018/08/the-notebook-228x300.jpg",
+    "desc": "A poor yet passionate young man falls in love with a rich young woman, giving her a sense of freedom. However, social differences soon get in the way. However, social differences soon get in the way.A poor yet passionate young man falls in love with a rich young woman, giving her a sense of freedom.",
+    "channel": "Watch Online on Draplinx",
+    "genre": "Drama, Romance"
+  },
+  {
+    "Title": "The Intersteller",
+    "Year": "2014",
+    "Runtime": "130 min",
+    "Poster": "https://pics.filmaffinity.com/Interstellar-366875261-large.jpg",
+    "desc": "Set in a future where a failing Earth puts humanity on the brink of extinction, it sees an intrepid team of NASA scientists, engineers and pilots attempt to find a new habitable planet, via interstellar travel.",
+    "channel": "Watch Online on Draplinx",
+    "genre": "Drama, Sci-Fi, Adventure, Mystery"
+  },
+  {
+    "Title": "Shutter Island",
+    "Year": "2010",
+    "Runtime": "150 min",
+    "Poster": "https://resizing.flixster.com/QB1d4yHp9Npc2d5XoEFPYnJ-arY=/206x305/v2/https://flxt.tmsimg.com/assets/p3531967_p_v13_an.jpg",
+    "desc": "Plot. In 1954, U.S. Marshal Edward \"Teddy\" Daniels and his new partner Chuck Aule travel to Ashecliffe Hospital for the criminally insane on Shutter Island, Boston Harbor to investigate the disappearance of Rachel Solando, a patient of the hospital who had previously drowned her three children.",
+    "channel": "Watch Online on Netflix",
+    "genre": "Thriller, Horror, Mystery, Drama"
+  },
+  {
+    "Title": "Inception",
+    "Year": "2010",
+    "Runtime": "160 min",
+    "Poster": "https://images.moviesanywhere.com/828288e8eff24b4e7851f6404ec98b67/ed5440ea-03ce-4038-8538-10845b0c7d82.jpg",
+    "desc": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.",
+    "channel": "Watch Online on Draplinx",
+    "genre": "Action, Drana, Adventure, Sci-Fi, Heist, Thriller"
+  },
+  {
+    "Title": "The Martian",
+    "Year": "2015",
+    "Runtime": "150 min",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTc2MTQ3MDA1Nl5BMl5BanBnXkFtZTgwODA3OTI4NjE@._V1_.jpg",
+    "desc": "An astronaut becomes stranded on Mars after his team assume him dead, and must rely on his ingenuity to find a way to signal to Earth that he is alive and can survive until a potential rescue.",
+    "channel": "Watch Online on Draplinx",
+    "genre": "Science fiction, Drama"
+  }
+]
