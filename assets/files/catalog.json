@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Iphone 14 pro",
+    "desc": "Apple Iphone 14th generation",
+    "price": 999,
+    "image": "https://stall.pk/wp-content/uploads/2022/10/Apple-iphone-14-pro-price-in-pakistan-stall.pk_.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Pixel 7",
+    "desc": "Google Pixel 7th generation",
+    "price": 699,
+    "image": "https://rebeltech.com/wp-content/uploads/2022/11/Google-Pixel-7-Pro.jpg"
+  },
+  {
+    "id": 3,
+    "name": "M1 Macbook Air",
+    "desc": "Apple Mabook Air with apple silicon",
+    "price": 1099,
+    "image": "https://helios-i.mashable.com/imagery/articles/04aCjH6WfSQdVyuIPXwPTyG/hero-image.fill.size_1200x1200.v1630598110.png"
+  },
+  {
+    "id": 4,
+    "name": "Playstation 5",
+    "desc": "Sony Playstation with 5th generation",
+    "price": 500,
+    "image": "https://www.gangaelectronica.es/315870-large_default/sony-pack-playstation-5-edicion-blu-ray-dualsense-extra.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Airpods Pro",
+    "desc": "Apple Airpods Pro 1st generation",
+    "price": 200,
+    "image": "https://m.media-amazon.com/images/I/71zny7BTRlL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 6,
+    "name": "ipad Pro",
+    "desc": "Apple ipad Pro 2023 edition",
+    "price": 799,
+    "image": "https://fdn2.gsmarena.com/vv/pics/apple/apple-ipad-pro-12-2020-1.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Galaxy S22 Ultra",
+    "desc": "Samsung Galaxy S22 Ultra 2022 edition",
+    "price": 899,
+    "image": "https://www.pakmobizone.pk/wp-content/uploads/2022/02/Samsung-Galaxy-S22-Ultra-5G-Burgundy-7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Galaxy S23 Ultra",
+    "desc": "Samsung Galaxy S23 Ultra 2023 edition",
+    "price": 1299,
+    "image": "https://images.samsung.com/pk/smartphones/galaxy-s23-ultra/images/galaxy-s23-ultra-highlights-colors-lavender-back-s.jpg"
+  },
+  {
+    "id": 9,
+    "name": "VR Gear",
+    "desc": "Samsung VR Gear with Controller",
+    "price": 499,
+    "image": "https://img.us.news.samsung.com/us/wp-content/uploads/2017/02/14163249/Gear-VR-with-Controller.jpg"
+  },
+  {
+    "id": 10,
+    "name": "hp Notebook",
+    "desc": "hp with high quality graphics Notebook",
+    "price": 1030,
+    "image": "https://laptopmart.pk/wp-content/uploads/2022/12/4ViFJNUjU2TnXFjd0zAVQYBgHeGeZJVEUwYyT0ic.jpg"
+  }
+]
