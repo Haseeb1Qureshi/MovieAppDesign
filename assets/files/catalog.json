@@ -4,69 +4,140 @@
     "name": "Iphone 14 pro",
     "desc": "Apple Iphone 14th generation",
     "price": 999,
-    "image": "https://stall.pk/wp-content/uploads/2022/10/Apple-iphone-14-pro-price-in-pakistan-stall.pk_.jpg"
+    "image": "https://www.pakmobizone.pk/wp-content/uploads/2022/12/Apple-iPhone-14-Pro-Max-Silver-4.jpg",
+    "info": "The iPhone 14 Pro is a flagship smartphone from Apple, known for its cutting-edge technology and sleek design. With powerful performance, a stunning display, and advanced camera capabilities, it sets a new standard in the world of mobile devices. Elevate your mobile experience with the iPhone 14 Pro.",
+    "camera": "equipped with the 48MP camera",
+    "video": "4K HDR at 30 fps",
+    "processor": "A16 Bionic",
+    "memory": "128GB, 256GB, 512GB, and 1TB",
+    "battery": "3,200mAh",
+    "screen": "6.12 inches with OLED display"
   },
   {
     "id": 2,
     "name": "Pixel 7",
     "desc": "Google Pixel 7th generation",
     "price": 699,
-    "image": "https://rebeltech.com/wp-content/uploads/2022/11/Google-Pixel-7-Pro.jpg"
+    "image": "https://www.gizchina.com/wp-content/uploads/images/2022/09/imagem_2022-09-30_173343958.png",
+    "info": "The Pixel 7 is Google's latest smartphone, offering top-notch performance and an exceptional camera system. Its clean, minimalist design is complemented by a vibrant display, making it a stylish choice for tech enthusiasts. Experience the best of Android with the Pixel 7.",
+    "camera": "50MP 1/1.31-inch sensor",
+    "video": "4K capable front-facing cameras",
+    "processor": "Octa-core(Android 13)",
+    "memory": "128 or 256 GB of storage and 8 GB of RAM",
+    "battery": "4,355mAh",
+    "screen": "6.3 in (160 mm) FHD+ 1080p OLED display"
   },
   {
     "id": 3,
     "name": "M1 Macbook Air",
     "desc": "Apple Mabook Air with apple silicon",
     "price": 1099,
-    "image": "https://helios-i.mashable.com/imagery/articles/04aCjH6WfSQdVyuIPXwPTyG/hero-image.fill.size_1200x1200.v1630598110.png"
+    "image": "https://i.pinimg.com/originals/f1/ba/f8/f1baf83351ff26105b2d24ae95cab229.png",
+    "info": "The M1 MacBook Air redefines laptop performance with Apple's groundbreaking M1 chip, delivering lightning-fast speeds and extraordinary efficiency. Its sleek and ultra-thin design, along with a stunning Retina display, offers a premium computing experience. Experience unparalleled power and portability with the M1 MacBook Air.",
+    "camera": "720p webcam",
+    "video": "4K video editing",
+    "processor": "8-core GPU",
+    "memory": "16GB unified memory. 512GB, 1TB, or 2TB SSD",
+    "battery": "10-17 Hours of battery time",
+    "screen": "13.3 display size"
   },
   {
     "id": 4,
     "name": "Playstation 5",
     "desc": "Sony Playstation with 5th generation",
     "price": 500,
-    "image": "https://www.gangaelectronica.es/315870-large_default/sony-pack-playstation-5-edicion-blu-ray-dualsense-extra.jpg"
+    "image": "https://venturebeat.com/wp-content/uploads/2020/06/playstation-5-side.png?fit=2000%2C1000&strip=all",
+    "info": "The PS5 is Sony's cutting-edge gaming console, boasting stunning 4K graphics and ultra-fast load times for an immersive gaming experience. Its futuristic design and innovative DualSense controller bring a new level of immersion to gaming. Dive into a world of gaming excellence with the PS5.",
+    "camera": "only supports videos",
+    "video": "full support for 4K media",
+    "processor": "AMD Zen 2 CPU",
+    "memory": " 1TB of storage",
+    "battery": "1560mAh, 5.92Wh, Maximum current 1.4A",
+    "screen": "can run on any screen"
+
   },
   {
     "id": 5,
     "name": "Airpods Pro",
     "desc": "Apple Airpods Pro 1st generation",
     "price": 200,
-    "image": "https://m.media-amazon.com/images/I/71zny7BTRlL._AC_UF1000,1000_QL80_.jpg"
+    "image": "https://atlas-content-cdn.pixelsquid.com/stock-images/apple-airpods-pro-headphones-w7aayw5-600.jpg",
+    "info": "AirPods Pro deliver an unparalleled audio experience with active noise cancellation, immersive sound, and a customizable fit for ultimate comfort. These wireless earbuds seamlessly integrate with Apple devices and provide easy access to Siri, making them a top choice for music lovers and tech enthusiasts. Elevate your listening experience with AirPods Pro.",
+    "camera": "N/A in Airpods",
+    "video": "N/A in Airpods",
+    "processor": "N/A in Airpods",
+    "memory": "N/A in Airpods",
+    "battery": "519 mAh (approx)",
+    "screen": "N/A in Airpods"
   },
   {
     "id": 6,
     "name": "ipad Pro",
     "desc": "Apple ipad Pro 2023 edition",
     "price": 799,
-    "image": "https://fdn2.gsmarena.com/vv/pics/apple/apple-ipad-pro-12-2020-1.jpg"
+    "image": "https://fdn2.gsmarena.com/vv/pics/apple/apple-ipad-pro-12-2020-1.jpg",
+    "info": "The iPad Pro is a powerhouse tablet with incredible performance, powered by Apple's M1 chip, offering desktop-class capabilities in a sleek, portable design. Its Liquid Retina XDR display showcases stunning visuals and color accuracy for creative and professional tasks. With support for the Apple Pencil and Magic Keyboard, the iPad Pro is the ultimate tool for productivity and creativity.",
+    "camera": "12MP sensor and a 122‑degree field of view",
+    "video": "record 4K video at up to 60fps",
+    "processor": "desktop-class M1 chip",
+    "memory": "8GB RAM, 1TB 16GB RAM, 2TB 16GB RAM",
+    "battery": "Li-Po 7538 mAh",
+    "screen": "11-inch iPad Pro"
   },
   {
     "id": 7,
     "name": "Galaxy S22 Ultra",
     "desc": "Samsung Galaxy S22 Ultra 2022 edition",
     "price": 899,
-    "image": "https://www.pakmobizone.pk/wp-content/uploads/2022/02/Samsung-Galaxy-S22-Ultra-5G-Burgundy-7.jpg"
+    "image": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s22-ultra-5g-4.jpg",
+    "info": "The Galaxy S22 Ultra is Samsung's flagship smartphone, combining exceptional power with an expansive AMOLED display and versatile camera system for stunning photos and videos. Its sleek design and S Pen compatibility enhance productivity and creativity. Elevate your mobile experience with the Galaxy S22 Ultra.",
+    "camera": "108MP wide lens",
+    "video": "4K resolution files at up to 60fps",
+    "processor": "Snapdragon 8 Gen 1(4 nm)-ROW",
+    "memory": "128GB, 256GB, 512GB, and 1TB",
+    "battery": "5000 mAh",
+    "screen": "6.8-inch screen with dynamic AMOLED display"
   },
   {
     "id": 8,
     "name": "Galaxy S23 Ultra",
     "desc": "Samsung Galaxy S23 Ultra 2023 edition",
     "price": 1299,
-    "image": "https://images.samsung.com/pk/smartphones/galaxy-s23-ultra/images/galaxy-s23-ultra-highlights-colors-lavender-back-s.jpg"
+    "image": "https://www.sammyfans.com/wp-content/uploads/2022/03/galaxy-s23-ultra-silver-img.jpg",
+    "info": "The Galaxy S23 Ultra is Samsung's flagship smartphone, combining exceptional power with an expansive AMOLED display and versatile camera system for stunning photos and videos. Its sleek design and S Pen compatibility enhance productivity and creativity. Elevate your mobile experience with the Galaxy S23 Ultra.",
+    "camera": "200 MP main/wide",
+    "video": "4K resolution at up to 60fps",
+    "processor": "Snapdragon 8 Gen 2",
+    "memory": "12GB of RAM/512GB or 1TB of storage",
+    "battery": "5000 mAh",
+    "screen": "6.8-inch Edge QHD+ Dynamic AMOLED"
   },
   {
     "id": 9,
     "name": "VR Gear",
     "desc": "Samsung VR Gear with Controller",
     "price": 499,
-    "image": "https://img.us.news.samsung.com/us/wp-content/uploads/2017/02/14163249/Gear-VR-with-Controller.jpg"
+    "image": "https://img.us.news.samsung.com/us/wp-content/uploads/2017/02/14163249/Gear-VR-with-Controller.jpg",
+    "info": "The Samsung VR Gear is a virtual reality headset that offers immersive 3D experiences, taking you to another world with stunning visuals and 360-degree content. Its comfortable design and easy-to-use controls provide hours of entertainment and gaming. Step into the future of virtual reality with Samsung VR Gear.",
+    "camera": "captures 360-degree videos and images",
+    "video": "360-degree panoramic view",
+    "processor": " Ryzen 5 or 7 H-series chip",
+    "memory": "requires 8 GB+ RAM",
+    "battery": "3640mAh lithium-ion battery",
+    "screen": "N/A"
   },
   {
     "id": 10,
     "name": "hp Notebook",
     "desc": "hp with high quality graphics Notebook",
     "price": 1030,
-    "image": "https://laptopmart.pk/wp-content/uploads/2022/12/4ViFJNUjU2TnXFjd0zAVQYBgHeGeZJVEUwYyT0ic.jpg"
+    "image": "https://laptopmart.pk/wp-content/uploads/2022/12/4ViFJNUjU2TnXFjd0zAVQYBgHeGeZJVEUwYyT0ic.jpg",
+    "info": "The HP notebook is a reliable and versatile laptop, ideal for work and entertainment, with a sleek and portable design. It offers powerful performance, a vibrant display, and long battery life, making it a practical choice for on-the-go computing. Experience productivity and entertainment in one package with the HP notebook.",
+    "camera": "1.3mp of webcam",
+    "video": "supports 4K video resolution",
+    "processor": "Intel Core i7",
+    "memory": "2 gigabytes (GB) up to 32GB of RAM",
+    "battery": "Lithium-Ion Battery, Capacity: 4400 mAh",
+    "screen": "15.60-inch display"
   }
 ]
