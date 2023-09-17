@@ -3,27 +3,34 @@ import 'dart:convert';
 /// name : "Iphone 14 pro"
 /// desc : "Apple Iphone 14th generation"
 /// price : 999
-/// image : "https://stall.pk/wp-content/uploads/2022/10/Apple-iphone-14-pro-price-in-pakistan-stall.pk_.jpg"
+/// image : "https://www.pakmobizone.pk/wp-content/uploads/2022/12/Apple-iPhone-14-Pro-Max-Silver-4.jpg"
+/// info : "The iPhone 14 Pro is a flagship smartphone from Apple, known for its cutting-edge technology and sleek design. With powerful performance, a stunning display, and advanced camera capabilities, it sets a new standard in the world of mobile devices. Elevate your mobile experience with the iPhone 14 Pro."
+/// camera : "equipped with the 48MP camera"
+/// video : "4K HDR at 30 fps"
+/// processor : "A16 Bionic"
+/// memory : "128GB, 256GB, 512GB, and 1TB"
+/// battery : "3,200mAh"
+/// screen : "6.12 inches with OLED display"
+/// pictures : ["https://www.pakmobizone.pk/wp-content/uploads/2022/12/Apple-iPhone-14-Pro-Max-Silver-4.jpg","https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-14-pro-max-1.jpg"]
 
 CatalogModels catalogModelsFromJson(String str) => CatalogModels.fromJson(json.decode(str));
-
 String catalogModelsToJson(CatalogModels data) => json.encode(data.toJson());
 class CatalogModels {
   CatalogModels({
+      num? id, 
+      String? name, 
+      String? desc, 
+      num? price, 
+      String? image, 
+      String? info, 
+      String? camera, 
+      String? video, 
+      String? processor, 
+      String? memory, 
+      String? battery, 
+      String? screen, 
+      List<String>? pictures,}){
 
-      num? id,
-      String? name,
-      String? desc,
-      num? price,
-      String? image,
-      String? info,
-    String? camera,
-    String? video,
-    String? processor,
-    String? memory,
-    String? battery,
-    String? screen,})
-  {
     _id = id;
     _name = name;
     _desc = desc;
@@ -36,6 +43,7 @@ class CatalogModels {
     _memory = memory;
     _battery = battery;
     _screen = screen;
+    _pictures = pictures;
 }
 
   CatalogModels.fromJson(dynamic json) {
@@ -51,6 +59,7 @@ class CatalogModels {
     _memory = json['memory'];
     _battery = json['battery'];
     _screen = json['screen'];
+    _pictures = json['pictures'] != null ? json['pictures'].cast<String>() : [];
   }
   num? _id;
   String? _name;
@@ -64,6 +73,7 @@ class CatalogModels {
   String? _memory;
   String? _battery;
   String? _screen;
+  List<String>? _pictures;
 
 CatalogModels copyWith({  num? id,
   String? name,
@@ -77,7 +87,7 @@ CatalogModels copyWith({  num? id,
   String? memory,
   String? battery,
   String? screen,
-
+  List<String>? pictures,
 }) => CatalogModels(  id: id ?? _id,
   name: name ?? _name,
   desc: desc ?? _desc,
@@ -87,10 +97,10 @@ CatalogModels copyWith({  num? id,
   camera: camera ?? _camera,
   video: video ?? _video,
   processor: processor ?? _processor,
-  memory: _memory ?? _memory,
-  battery: _battery ?? _battery,
-  screen: _screen ?? _screen,
-
+  memory: memory ?? _memory,
+  battery: battery ?? _battery,
+  screen: screen ?? _screen,
+  pictures: pictures ?? _pictures,
 );
   num? get id => _id;
   String? get name => _name;
@@ -104,6 +114,7 @@ CatalogModels copyWith({  num? id,
   String? get memory => _memory;
   String? get battery => _battery;
   String? get screen => _screen;
+  List<String>? get pictures => _pictures;
 
   Map<String, dynamic> toJson() {
     final map = <String, dynamic>{};
@@ -119,6 +130,8 @@ CatalogModels copyWith({  num? id,
     map['memory'] = _memory;
     map['battery'] = _battery;
     map['screen'] = _screen;
+    map['pictures'] = _pictures;
     return map;
   }
+
 }

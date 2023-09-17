@@ -4,14 +4,24 @@
     "name": "Iphone 14 pro",
     "desc": "Apple Iphone 14th generation",
     "price": 999,
-    "image": "https://www.pakmobizone.pk/wp-content/uploads/2022/12/Apple-iPhone-14-Pro-Max-Silver-4.jpg",
+    "image": "https://media.secure-mobiles.com/product-images/14C1D.1.responsive-lg.centre.webp",
     "info": "The iPhone 14 Pro is a flagship smartphone from Apple, known for its cutting-edge technology and sleek design. With powerful performance, a stunning display, and advanced camera capabilities, it sets a new standard in the world of mobile devices. Elevate your mobile experience with the iPhone 14 Pro.",
     "camera": "equipped with the 48MP camera",
     "video": "4K HDR at 30 fps",
     "processor": "A16 Bionic",
     "memory": "128GB, 256GB, 512GB, and 1TB",
     "battery": "3,200mAh",
-    "screen": "6.12 inches with OLED display"
+    "screen": "6.12 inches with OLED display",
+    "pictures": [
+      "https://media.secure-mobiles.com/product-images/14C1D.1.responsive-lg.centre.webp",
+      "https://media.secure-mobiles.com/product-images/apple-iphone-14-pro-128gb-deep-purple.responsive-lg.centre.webp",
+      "https://media.secure-mobiles.com/product-images/apple-iphone-14-pro-128gb-gold.responsive-lg.centre.webp",
+      "https://media.secure-mobiles.com/product-images/14C1C.1.responsive-lg.centre.webp",
+      "https://media.secure-mobiles.com/product-images/apple-iphone-14-pro-128gb-silver.responsive-lg.centre.webp",
+      "https://media.secure-mobiles.com/product-images/14C1B.1.responsive-lg.centre.webp",
+      "https://media.secure-mobiles.com/product-images/apple-iphone-14-pro-128gb-space-black.responsive-lg.centre.webp",
+      "https://media.secure-mobiles.com/product-images/14C1A2.1.responsive-lg.centre.webp"
+    ]
   },
   {
     "id": 2,
@@ -25,7 +35,21 @@
     "processor": "Octa-core(Android 13)",
     "memory": "128 or 256 GB of storage and 8 GB of RAM",
     "battery": "4,355mAh",
-    "screen": "6.3 in (160 mm) FHD+ 1080p OLED display"
+    "screen": "6.3 in (160 mm) FHD+ 1080p OLED display",
+    "pictures": [
+      "https://www.gizchina.com/wp-content/uploads/images/2022/09/imagem_2022-09-30_173343958.png",
+      "https://media.secure-mobiles.com/product-images/google-pixel-7-128gb-snow.responsive-lg.centre.webp",
+      "https://media.secure-mobiles.com/product-images/PIX7128WHI.1.responsive-lg.centre.webp",
+      "https://media.secure-mobiles.com/product-images/PIX7128WHI.2.responsive-lg.centre.webp",
+      "https://media.secure-mobiles.com/product-images/PIX7128WHI.4.responsive-lg.centre.webp",
+      "https://media.secure-mobiles.com/product-images/PIX7128WHI.5.responsive-lg.centre.webp",
+      "https://media.secure-mobiles.com/product-images/google-pixel-7-128gb-obsidian.responsive-lg.centre.webp",
+      "https://media.secure-mobiles.com/product-images/PIX7128BLA.1.responsive-lg.centre.webp",
+      "https://media.secure-mobiles.com/product-images/PIX7128BLA.2.responsive-lg.centre.webp",
+      "https://media.secure-mobiles.com/product-images/PIX7128BLA.3.responsive-lg.centre.webp",
+      "https://media.secure-mobiles.com/product-images/PIX7128BLA.4.responsive-lg.centre.webp",
+      "https://media.secure-mobiles.com/product-images/PIX7128BLA.5.responsive-lg.centre.webp"
+    ]
   },
   {
     "id": 3,
@@ -39,7 +63,14 @@
     "processor": "8-core GPU",
     "memory": "16GB unified memory. 512GB, 1TB, or 2TB SSD",
     "battery": "10-17 Hours of battery time",
-    "screen": "13.3 display size"
+    "screen": "13.3 display size",
+    "pictures": [
+      "https://i.pinimg.com/originals/f1/ba/f8/f1baf83351ff26105b2d24ae95cab229.png",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/refurb-mbp14-space-m1-2021_AV1?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1638575219000",
+      "https://img.freepik.com/premium-vector/macbook-pro-2021-macbook-pro-m1-pro-macbook-pro-m1-max-realistic-laptop-computer-mockup-vector-zaporizhzhia-ukraine-october-19-2021_399089-3398.jpg?w=2000",
+      "https://c8.alamy.com/comp/2BJPTA8/kiev-ukraine-october-12-2017-apple-gold-macbook-on-white-background-2BJPTA8.jpg",
+      "https://c8.alamy.com/comp/2HKJCHX/izmir-turkey-january-10-2022-half-opened-apple-brand-m1-model-macbook-pro-laptop-computer-on-a-white-background-2HKJCHX.jpg"
+    ]
   },
   {
     "id": 4,
@@ -53,7 +84,14 @@
     "processor": "AMD Zen 2 CPU",
     "memory": " 1TB of storage",
     "battery": "1560mAh, 5.92Wh, Maximum current 1.4A",
-    "screen": "can run on any screen"
+    "screen": "can run on any screen",
+    "pictures": [
+      "https://venturebeat.com/wp-content/uploads/2020/06/playstation-5-side.png?fit=2000%2C1000&strip=all",
+      "https://c8.alamy.com/zooms/9/6d1551b4158a4b45894dced3fc1a5a6a/2f1tb88.jpg",
+      "https://atlas-content-cdn.pixelsquid.com/stock-images/ps5-controller-video-game-6421WeB-600.jpg",
+      "https://images.immediate.co.uk/production/volatile/sites/3/2023/01/Is-PS5-worth-it-a007570.jpg",
+      "https://www.pngmart.com/files/23/Ps5-PNG.png"
+    ]
 
   },
   {
@@ -61,14 +99,21 @@
     "name": "Airpods Pro",
     "desc": "Apple Airpods Pro 1st generation",
     "price": 200,
-    "image": "https://atlas-content-cdn.pixelsquid.com/stock-images/apple-airpods-pro-headphones-w7aayw5-600.jpg",
+    "image": "https://www.pngmart.com/files/23/Airpods-Pro-PNG-Clipart.png",
     "info": "AirPods Pro deliver an unparalleled audio experience with active noise cancellation, immersive sound, and a customizable fit for ultimate comfort. These wireless earbuds seamlessly integrate with Apple devices and provide easy access to Siri, making them a top choice for music lovers and tech enthusiasts. Elevate your listening experience with AirPods Pro.",
     "camera": "N/A in Airpods",
     "video": "N/A in Airpods",
     "processor": "N/A in Airpods",
     "memory": "N/A in Airpods",
     "battery": "519 mAh (approx)",
-    "screen": "N/A in Airpods"
+    "screen": "N/A in Airpods",
+    "pictures": [
+      "https://www.pngmart.com/files/23/Airpods-Pro-PNG-Clipart.png",
+      "https://www.pngmart.com/files/23/Airpods-Pro-Transparent-PNG.png",
+      "https://www.pngmart.com/files/23/Airpods-Pro-PNG-Pic.webp",
+      "https://www.pngmart.com/files/23/Airpods-Pro-PNG-Isolated-Pic.png",
+      "https://www.pngmart.com/files/23/Airpods-Pro-PNG-HD.webp"
+    ]
   },
   {
     "id": 6,
@@ -82,62 +127,116 @@
     "processor": "desktop-class M1 chip",
     "memory": "8GB RAM, 1TB 16GB RAM, 2TB 16GB RAM",
     "battery": "Li-Po 7538 mAh",
-    "screen": "11-inch iPad Pro"
+    "screen": "11-inch iPad Pro",
+    "pictures": [
+      "https://fdn2.gsmarena.com/vv/pics/apple/apple-ipad-pro-12-2020-1.jpg",
+      "https://c8.alamy.com/comp/D2YK7A/ipad-3-with-retina-display-in-a-blue-case-on-a-white-background-D2YK7A.jpg",
+      "https://photos5.appleinsider.com/gallery/25472-34732-ipad-2018lineup-xl.jpg",
+      "https://cdn.makane.com/cdn-cgi/image/background=%23ffffff,width=850,height=1133,quality=80,fit=scale-down,format=auto/20211020-store-cadw/products/24995681/82923593.jpg"
+    ]
   },
   {
     "id": 7,
     "name": "Galaxy S22 Ultra",
     "desc": "Samsung Galaxy S22 Ultra 2022 edition",
     "price": 899,
-    "image": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s22-ultra-5g-4.jpg",
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6494/6494446_sd.jpg",
     "info": "The Galaxy S22 Ultra is Samsung's flagship smartphone, combining exceptional power with an expansive AMOLED display and versatile camera system for stunning photos and videos. Its sleek design and S Pen compatibility enhance productivity and creativity. Elevate your mobile experience with the Galaxy S22 Ultra.",
     "camera": "108MP wide lens",
     "video": "4K resolution files at up to 60fps",
     "processor": "Snapdragon 8 Gen 1(4 nm)-ROW",
     "memory": "128GB, 256GB, 512GB, and 1TB",
     "battery": "5000 mAh",
-    "screen": "6.8-inch screen with dynamic AMOLED display"
+    "screen": "6.8-inch screen with dynamic AMOLED display",
+    "pictures": [
+      "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6494/6494446_sd.jpg",
+      "https://media.secure-mobiles.com/product-images/samsung-galaxy-s22-128gb-green.responsive-lg.centre.webp",
+      "https://media.secure-mobiles.com/product-images/S22128GRN.1.responsive-lg.centre.webp",
+      "https://media.secure-mobiles.com/product-images/samsung-galaxy-s22-128gb-bora-purple.responsive-lg.centre.webp",
+      "https://media.secure-mobiles.com/product-images/S22128PUR.1.responsive-lg.centre.webp",
+      "https://media.secure-mobiles.com/product-images/samsung-galaxy-s22-128gb-phantom-black.responsive-lg.centre.webp",
+      "https://media.secure-mobiles.com/product-images/S22128BLA.1.responsive-lg.centre.webp",
+      "https://media.secure-mobiles.com/product-images/samsung-galaxy-s22-128gb-phantom-white.responsive-lg.centre.webp",
+      "https://media.secure-mobiles.com/product-images/S22128WHI.1.responsive-lg.centre.webp",
+      "https://media.secure-mobiles.com/product-images/samsung-galaxy-s22-128gb-pink-gold.responsive-lg.centre.webp",
+      "https://media.secure-mobiles.com/product-images/S22128PG.1.responsive-lg.centre.webp"
+    ]
   },
   {
     "id": 8,
     "name": "Galaxy S23 Ultra",
     "desc": "Samsung Galaxy S23 Ultra 2023 edition",
     "price": 1299,
-    "image": "https://www.sammyfans.com/wp-content/uploads/2022/03/galaxy-s23-ultra-silver-img.jpg",
+    "image": "https://cmsimg.blob.core.windows.net/uae/en/images/brand/samsung/gallery-ultra-green/backl30.png",
     "info": "The Galaxy S23 Ultra is Samsung's flagship smartphone, combining exceptional power with an expansive AMOLED display and versatile camera system for stunning photos and videos. Its sleek design and S Pen compatibility enhance productivity and creativity. Elevate your mobile experience with the Galaxy S23 Ultra.",
     "camera": "200 MP main/wide",
     "video": "4K resolution at up to 60fps",
     "processor": "Snapdragon 8 Gen 2",
     "memory": "12GB of RAM/512GB or 1TB of storage",
     "battery": "5000 mAh",
-    "screen": "6.8-inch Edge QHD+ Dynamic AMOLED"
+    "screen": "6.8-inch Edge QHD+ Dynamic AMOLED",
+    "pictures": [
+      "https://cmsimg.blob.core.windows.net/uae/en/images/brand/samsung/gallery-ultra-green/backl30.png",
+      "https://media.secure-mobiles.com/product-images/samsung-galaxy-s23-ultra-256gb-cream.responsive-lg.centre.webp",
+      "https://media.secure-mobiles.com/product-images/S23U256CRE.1.responsive-lg.centre.webp",
+      "https://media.secure-mobiles.com/product-images/S23U256CRE.2.responsive-lg.centre.webp",
+      "https://media.secure-mobiles.com/product-images/S23U256GRE.3.responsive-lg.centre.webp",
+      "https://media.secure-mobiles.com/product-images/S23U256GRE.4.responsive-lg.centre.webp",
+      "https://media.secure-mobiles.com/product-images/S23U256GRE.7.responsive-lg.centre.webp",
+      "https://media.secure-mobiles.com/product-images/S23U256GRE.8.responsive-lg.centre.webp",
+      "https://media.secure-mobiles.com/product-images/S23U256GRE.9.responsive-lg.centre.webp",
+      "https://media.secure-mobiles.com/product-images/S23U256LAV.4.responsive-lg.centre.webp",
+      "https://media.secure-mobiles.com/product-images/S23U256LAV.5.responsive-lg.centre.webp",
+      "https://media.secure-mobiles.com/product-images/S23U256LAV.8.responsive-lg.centre.webp",
+      "https://media.secure-mobiles.com/product-images/S23U256LAV.9.responsive-lg.centre.webp",
+      "https://media.secure-mobiles.com/product-images/S23U256LAV.10.responsive-lg.centre.webp",
+      "https://media.secure-mobiles.com/product-images/S23U256BLA.3.responsive-lg.centre.webp",
+      "https://media.secure-mobiles.com/product-images/S23U256BLA.4.responsive-lg.centre.webp",
+      "https://media.secure-mobiles.com/product-images/S23U256BLA.6.responsive-lg.centre.webp",
+      "https://media.secure-mobiles.com/product-images/S23U256BLA.7.responsive-lg.centre.webp",
+      "https://media.secure-mobiles.com/product-images/S23U256BLA.8.responsive-lg.centre.webp"
+    ]
   },
   {
     "id": 9,
     "name": "VR Gear",
     "desc": "Samsung VR Gear with Controller",
     "price": 499,
-    "image": "https://img.us.news.samsung.com/us/wp-content/uploads/2017/02/14163249/Gear-VR-with-Controller.jpg",
+    "image": "https://media.istockphoto.com/id/615833190/photo/vr-headset.jpg?s=612x612&w=0&k=20&c=H4646BQs3-1Wi6li6W2hvUhLC9D8AqbyO06cxAMUh70=",
     "info": "The Samsung VR Gear is a virtual reality headset that offers immersive 3D experiences, taking you to another world with stunning visuals and 360-degree content. Its comfortable design and easy-to-use controls provide hours of entertainment and gaming. Step into the future of virtual reality with Samsung VR Gear.",
     "camera": "captures 360-degree videos and images",
     "video": "360-degree panoramic view",
     "processor": " Ryzen 5 or 7 H-series chip",
     "memory": "requires 8 GB+ RAM",
     "battery": "3640mAh lithium-ion battery",
-    "screen": "N/A"
+    "screen": "N/A",
+    "pictures": [
+      "https://media.istockphoto.com/id/615833190/photo/vr-headset.jpg?s=612x612&w=0&k=20&c=H4646BQs3-1Wi6li6W2hvUhLC9D8AqbyO06cxAMUh70=",
+      "https://img.us.news.samsung.com/us/wp-content/uploads/2017/02/14163249/Gear-VR-with-Controller.jpg",
+      "https://d1b5h9psu9yexj.cloudfront.net/40736/Oculus-Quest-2_20201102-152209_full.png",
+      "https://media.cnn.com/api/v1/images/stellar/prod/oculus-quest-2-comparison-card.jpg?c=16x9&q=h_720,w_1280,c_fill",
+      "https://www.lifewire.com/thmb/2hmgQwBUMc_BNqMAuEKKrgHoqy0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ScreenShot2022-09-22at1.35.39PM-12e5f9dc59e14fbd9abcd55dca87fb85.png"
+    ]
   },
   {
     "id": 10,
     "name": "hp Notebook",
     "desc": "hp with high quality graphics Notebook",
     "price": 1030,
-    "image": "https://laptopmart.pk/wp-content/uploads/2022/12/4ViFJNUjU2TnXFjd0zAVQYBgHeGeZJVEUwYyT0ic.jpg",
+    "image": "https://www.hp.com/content/dam/sites/worldwide/personal-computers/consumer/laptops-and-2-in-1s/new/Spectre_x360_16_desktop@2x_2023.png",
     "info": "The HP notebook is a reliable and versatile laptop, ideal for work and entertainment, with a sleek and portable design. It offers powerful performance, a vibrant display, and long battery life, making it a practical choice for on-the-go computing. Experience productivity and entertainment in one package with the HP notebook.",
     "camera": "1.3mp of webcam",
     "video": "supports 4K video resolution",
     "processor": "Intel Core i7",
     "memory": "2 gigabytes (GB) up to 32GB of RAM",
     "battery": "Lithium-Ion Battery, Capacity: 4400 mAh",
-    "screen": "15.60-inch display"
+    "screen": "15.60-inch display",
+    "pictures": [
+      "https://www.hp.com/content/dam/sites/worldwide/personal-computers/consumer/laptops-and-2-in-1s/new/Spectre_x360_16_desktop@2x_2023.png",
+      "https://laptopmart.pk/wp-content/uploads/2022/12/4ViFJNUjU2TnXFjd0zAVQYBgHeGeZJVEUwYyT0ic.jpg",
+      "https://m.media-amazon.com/images/I/51dBgqrJZaL.jpg",
+      "https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c08263844.png?imwidth=270&imdensity=1",
+      "https://webobjects2.cdw.com/is/image/CDW/6523484?$product-main$"
+    ]
   }
 ]
